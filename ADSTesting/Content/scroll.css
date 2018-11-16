@@ -1,0 +1,60 @@
+ /* Height & width for the container - The rest is done by the jQuery part. */
+  div[rel='scrollcontent5'] { width:100%;}
+  .scrollcontent6-content{ width:auto !important;}
+  
+  /* Basic CSS for the elements - If rel is "scrollcontent1", style its scrollbar by referring to ".scrollcontent-content", ".scrollcontent-bar", etc. */
+  .scrollcontent5-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent5-bar { width: 8px; background: #00729e; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent5-drag { background: #00394f; border-radius: 4px; cursor: pointer;width: 8px !important; }
+  
+div[rel='scrollcontent1'] { width:100%; height:150px;}
+  
+  .scrollcontent1-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent1-bar { width: 8px; background: #fff; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent1-drag { background: #00729e; border-radius: 4px; cursor: pointer;width: 8px !important; }  
+  
+  div[rel='scrollcontent2'] { width:100%; height:170px;}
+  
+  .scrollcontent2-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent2-bar { width: 8px; background: #fff; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent2-drag { background: #00729e; border-radius: 4px; cursor: pointer;width: 8px !important; }
+ 
+ 
+ 
+ 
+  div[rel='scrollcontent3'] { width:100%; height:170px;}
+  
+  .scrollcontent3-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent3-bar { width: 8px; background: #fff; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent3-drag { background: #00729e; border-radius: 4px; cursor: pointer;width: 8px !important; }
+   div[rel='scrollcontent4'] { width:100%; height:170px;}
+  
+  .scrollcontent4-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent4-bar { width: 8px; background: #fff; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent4-drag { background: #00729e; border-radius: 4px; cursor: pointer;width: 8px !important; }
+  
+ 
+  
+  
+   /*div[rel='scrollcontent6'] { width:100%;}*/
+  
+  .scrollcontent6-content { /* background: #eee; */  } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent6-bar { width: 8px; background: #00729e; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent6-drag { background: #00394f; border-radius: 4px; cursor: pointer;width: 8px !important; }
+  
+  
+  
+  
+   div[rel='scrollcontent7'] { width:100%; height:170px;}
+  
+  .scrollcontent7-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent7-bar { width: 8px; background: #00729e; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent7-drag { background: #00394f; border-radius: 4px; cursor: pointer;width: 8px !important; }
+  
+  
+  
+   div[rel='scrollcontent8'] { width:100%; height:170px;}
+  
+  .scrollcontent8-content { /* background: #eee; */ width:245px !important; } /* for vertical content, no explicit width is required for inner DIV */
+  .scrollcontent8-bar { width: 8px; background: #00729e; border-radius: 0px; box-shadow: inset 0px 0px 5px #444444; overflow: hidden; right:0px !important; }
+  .scrollcontent8-drag { background: #00394f; border-radius: 4px; cursor: pointer;width: 8px !important; }

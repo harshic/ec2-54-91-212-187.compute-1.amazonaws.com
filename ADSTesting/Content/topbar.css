@@ -1,0 +1,36 @@
+﻿.topbar {
+    width: 100%;
+    min-height: 55px;
+    background-color:   #008080;
+}
+
+.topbar-left {
+    width: 20%;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.topbar-center {
+    width: 58%;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.topbar-right {
+    width: 20%;
+    display: inline-block;
+}
+
+.topbarclock {
+        font-family: verdana;
+        font-size: 12px;
+        BACKGROUND-COLOR:   #008080;
+        color: White;
+        text-decoration: none;
+        WIDTH: 193px;
+        HEIGHT: 24px;
+        margin-left: 20px;
+    }

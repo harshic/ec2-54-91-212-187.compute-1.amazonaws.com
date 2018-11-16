@@ -1,0 +1,530 @@
+
+@media only screen and (max-width:1360px)
+{
+    .zoom-box-head ul li h3
+    {
+        font-size: 17px;
+    }
+
+    .text-box-area ul li input
+    {
+        width: 100%;
+    }
+
+    .text-box-area ul li
+    {
+        width: 100%;
+        padding-left: 0px;
+        margin-bottom: 5px;
+    }
+
+    .text-box-area ul li label
+    {
+        width: 17%;
+    }
+
+    .text-box-bottom-part
+    {
+        margin-top: 0px !important;
+    }
+
+    .dashboard-left-panel
+    {
+        /*margin-left:-258px;*/
+    }
+
+    .dashboard-right-panel
+    {
+        margin-left: 258px;
+    }
+
+    ul.layout-option
+    {
+        margin: 0px;
+        padding: 0px;
+        text-align: left;
+        position: relative;
+        right: 0px;
+        top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+
+    ul.checkbox_list
+    {
+        margin: 0px;
+        padding: 0px;
+        text-align: left;
+        position: relative;
+        right: 0px;
+        top: 0px;
+        margin-top: 15px;
+        float: none;
+    }
+}
+
+@media only screen and (max-width:1096px)
+{
+    .top-filter
+    {
+        right: 55px;
+    }
+
+    .Dashboard-tab-part .col-sm-6, .Dashboard-tab-part .col-sm-3, .Dashboard-tab-part .col-sm-4, .Dashboard-tab-part .col-sm-7, .Dashboard-tab-part .col-sm-5
+    {
+        width: 100% !important;
+        text-align: left !important;
+    }
+
+    .add_plugin
+    {
+        margin-top: 20px;
+    }
+
+    .tab-content
+    {
+        padding-right: 15px;
+    }
+
+    .col-sm-6.zoom-box-container
+    {
+        padding-right: 0px;
+    }
+
+    .col-sm-12.result-container
+    {
+        padding-right: 0;
+    }
+}
+
+@media (max-width: 992px)
+{
+    #gene-search_wrapper .col-sm-6
+    {
+        width: 50%!important;
+    }
+}
+
+@media (max-width:780px)
+{
+    .dashboard-top-right
+    {
+        max-width: auto;
+        /*width: auto;*/
+        float: right;
+        min-width: auto;
+    }
+}
+
+@media only screen and (max-width:870px)
+{
+    table.health-wellness tr th, table.health-wellness tr td
+    {
+        padding: 10px 15px;
+    }
+}
+
+@media only screen and (max-width:842px)
+{
+
+    .dashbord-content
+    {
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 767px)
+{
+    .project-name
+    {
+        font-size: 14px;
+        padding-top: 5px;
+    }
+
+    .species
+    {
+        float: left;
+        margin-top: 0;
+        margin-bottom: 15px;
+        clear: left;
+        width: 100%;
+    }
+
+    .dashboard-top-right
+    {
+        float: right;
+    }
+
+    .mobile-top-search
+    {
+        margin-right: 120px;
+    }
+
+    .searchbar-top .search-bar
+    {
+        top: -10px;
+        margin-right: 30px;
+        right: 0;
+        height: 38px;
+        background: #fff;
+        padding-top: 8px;
+    }
+
+    .user-status ul > li
+    {
+        border: 0!important;
+    }
+
+    .h4, h4
+    {
+        font-size: 14px;
+    }
+
+    .top-filter
+    {
+        right: 0;
+        margin-top: 0;
+    }
+
+
+    .dashboard-right-panel
+    {
+        margin-left: 0px !important;
+    }
+
+    .dashboard-left-panel
+    {
+        left: -258px;
+    }
+
+    .dashboard-left-panel
+    {
+        position: fixed !important;
+    }
+
+    .add-plugin-holder
+    {
+        width: 180px;
+    }
+
+    .button.add-plugin.active
+    {
+        right: 135px;
+    }
+}
+
+@media (max-width: 580px)
+{
+    .col-xxs
+    {
+        width: 100%!important;
+    }
+
+    #footer-dashboard, #footer-dashboard ul
+    {
+        text-align: center;
+    }
+
+    ul.layout-option li
+    {
+        max-width: 100%;
+        text-align: center;
+    }
+
+    .project-name
+    {
+        display: none;
+    }
+
+    .dashboard-top-right
+    {
+        max-width: auto;
+        /* width: auto; */
+        float: right;
+        min-width: 200px;
+        position: absolute;
+        right: 0;
+    }
+
+    .dashboard-logo
+    {
+        padding-left: 5px;
+    }
+
+
+    .Dashboard-tab-part .nav-tabs > li > a, .Dashboard-tab-part .nav-tabs > li.active > a, .Dashboard-tab-part .nav-tabs > li.active > a:focus, .Dashboard-tab-part .nav-tabs > li.active > a:hover
+    {
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+
+    .top-filter
+    {
+        position: relative;
+        top: 0;
+        right: 0;
+        margin-top: -7px;
+        margin-bottom: 14px;
+        text-align: right;
+    }
+
+    .search-bar
+    {
+        position: absolute;
+        top: -10px;
+        right: 80px;
+        min-width: 200px;
+    }
+
+    .page-heading
+    {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .page-filter
+    {
+        width: 100%;
+        float: left;
+    }
+
+    .modal-header .searchbar-top
+    {
+        margin-top: 0!important;
+        width: 100%;
+        text-align: center;
+    }
+
+    .modal-header .modal-title
+    {
+        text-align: center;
+    }
+
+    .modal-header .search-bar
+    {
+        position: absolute;
+        top: -10px;
+        right: -40px;
+        min-width: 200px;
+    }
+}
+
+@media only screen and (max-width:477px)
+{
+    .dashboard-logo
+    {
+        max-width: 152px;
+        min-width: 152px;
+        display: inline-block;
+    }
+
+    .Dashboard-tab-part h3
+    {
+        font-size: 18px !important;
+    }
+
+    table.health-wellness tr th, table.health-wellness tr td
+    {
+        padding: 10px 4px;
+        font-size: 10px;
+    }
+
+    .zoom-box-head ul li h3
+    {
+        font-size: 14px !important;
+    }
+
+    .zoom-box-head ul
+    {
+        margin: 0px;
+        padding: 0px;
+        max-width: 71%;
+    }
+
+    .zoom-part
+    {
+        position: absolute;
+        right: -40px;
+        top: 17px;
+        width: 136px;
+    }
+
+    #slider-plugin ul li
+    {
+        width: 120px;
+    }
+
+    .plugin-box p
+    {
+        font-size: 10px;
+    }
+
+    .plugin-box p a
+    {
+        font-size: 10px;
+    }
+
+    .plugin-box
+    {
+        max-width: 134px;
+        max-height: 100%;
+        background-color: #fff;
+        padding: 5px 11px;
+        margin: 0px 7px;
+        float: left;
+        position: relative;
+    }
+
+    .col-xs-full
+    {
+        width: 100%!important;
+    }
+}
+
+
+@media (max-width:380px)
+{
+    .user-name
+    {
+        display: none!important;
+    }
+}
+
+
+.buttoncss
+{
+    display: inline-block;
+    padding: 3px 10px;
+    background-color:   #008080;
+    border: 1px solid #178acc;
+    border-radius: 4px;
+    color: white;
+}
+
+.buttoncssAlignText
+{
+    display: inline-block;
+    padding: 0px 10px;
+    margin-top: 1px;
+    background-color:   #008080;
+    border: 1px solid #178acc;
+    border-radius: 4px;
+    color: white;
+}
+
+.margin7
+{
+    margin: 7px;
+}
+
+.BodyCss
+{
+    background-color: #f3f6fd;
+    margin: 0px 0px 0px 0px;
+}
+
+.gv
+{
+    padding: 30px;
+}
+
+.gv td
+{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.header-gv
+{
+    background-color:   #008080;
+    font-size: 16px;
+    color: #dd4814;
+    background-color: #08b9b9;
+}
+
+.row-gv
+{
+    background-color: #E3EAEB;
+    color: #333;
+}
+
+.alternateRow-gv
+{
+    background-color: #fff;
+    color: #333;
+}
+
+.row-hover
+{
+    background-color: #0a5e5e;
+    color: #2301fc ;
+}
+
+.pagination-gv
+{
+    /*display: inline-block;*/
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.pagination-gv table > tbody > tr > td
+{
+    display: inline;
+}
+
+.pagination-gv table > tbody > tr > td > a,
+.pagination-gv table > tbody > tr > td > span
+{
+    position: relative;
+    float: left;
+    padding: 8px 12px;
+    line-height: .75;
+    text-decoration: none;
+    color: #fff;
+    background-color:   #008080;
+    border: 1px solid #178acc;
+    margin-left: -1px;
+}
+
+.pagination-gv table > tbody > tr > td > span
+{
+    position: relative;
+    float: left;
+    padding: 8px 12px;
+    line-height: .75;
+    text-decoration: none;
+    margin-left: -1px;
+    z-index: 2;
+    color: #dd4814;
+    background-color: #08b9b9;
+    border-color: #178acc;
+    cursor: default;
+    align-content: center;
+}
+
+.pagination-gv table > tbody > tr > td:first-child > a,
+.pagination-gv table > tbody > tr > td:first-child > span
+{
+    margin-left: 0;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+}
+
+.pagination-gv table > tbody > tr > td:last-child > a,
+.pagination-gv table > tbody > tr > td:last-child > span
+{
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.pagination-gv table > tbody > tr > td > a:hover,
+.pagination-gv table > tbody > tr > td > span:hover,
+.pagination-gv table > tbody > tr > td > a:focus,
+.pagination-gv table > tbody > tr > td > span:focus
+{
+    color: #97310e;
+    background-color: #08b9b9;
+    border-color:   #008080;
+}

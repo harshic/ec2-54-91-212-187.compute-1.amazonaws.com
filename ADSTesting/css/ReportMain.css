@@ -1,0 +1,75 @@
+﻿.ImageClass
+ {
+	background-image:url("../Images/ReportHeaderImage.jpg");
+	background-repeat:repeat-x; 
+}
+
+.HeaderColumnBorder {
+        text-align:center;
+        font-size: 10px;
+        font-family:Arial, Helvetica, sans-serif;
+        border-left:0px solid black;
+        border-bottom:1px solid black;
+        border-top:1px solid black;
+        border-right:1px solid black;
+        vertical-align:middle;
+        color:white
+}
+
+.HeaderColumnBorderExl {
+        text-align:left;
+        font-size: 10px;
+        font-family:Arial, Helvetica, sans-serif;
+        border-left:0px solid black;
+        border-bottom:1px solid black;
+        border-top:1px solid black;
+        border-right:1px solid black;
+        vertical-align:middle;
+        color:black
+}
+
+.ColumnBorderLeft {
+        font-family: Arial, Helvetica, sans-serif ;
+        color:black;
+        font-weight:normal;
+        font-size: 9px; 
+        vertical-align :middle ;
+        border-right:1px solid black;
+        border-bottom:1px solid black;
+        border-left:1px solid black;
+        padding-right:10px;
+}
+
+.ColumnBorderRight {
+        text-align:left;
+        font-family: Arial, Helvetica, sans-serif ; 
+        color:black;
+        font-weight:normal;
+        font-size: 11px; 
+        vertical-align :middle ;
+        border-right:1px solid black;
+        border-bottom:1px solid black;
+        padding-right:5px;
+}
+
+ .NewFont1
+{
+ font-family: Verdana ;
+ color:black;
+ font-weight:normal;
+ font-size: 10px;
+ vertical-align :text-top ;
+ background-color:#E4E8F8 ;
+ 
+
+ }
+ .NewFont2
+{
+ font-family: Verdana ;
+ color:black;
+ font-weight:normal;
+ font-size: 10px;
+ vertical-align :text-top ;
+ background-color:#FFFFFF;
+
+ }
